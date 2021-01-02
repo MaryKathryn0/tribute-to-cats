@@ -2,7 +2,7 @@ body {
     background-color: lightgray;
 }
 #image {
-    max-width: 675px;
+    max-width: 650px;
     display: block;
     margin: auto;
     border: 20px;
