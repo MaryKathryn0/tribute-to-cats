@@ -1,0 +1,18 @@
+#familyPortrait {
+    max-width: 600px;
+    margin: auto;
+}
+#title {
+    margin: auto;
+    text-align: center;
+}
+#pictureTitle {
+    margin: auto;
+    text-align: center;
+}
+
+#theBios {
+    margin: auto;
+    text-align: center;
+    max-width: 600px;
+}
