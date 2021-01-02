@@ -1,8 +1,9 @@
 body {
     background-color: lightgray;
 }
-#familyPortrait {
+#image {
     max-width: 675px;
+    display: block;
     margin: auto;
     border: 20px;
     border-style: solid;
@@ -13,12 +14,12 @@ body {
     text-align: center;
     margin-top: 25px;
 }
-#pictureTitle {
+#tribute-info{
     margin: auto;
     text-align: center;
 }
 
-#guide {
+#img-caption {
     color: gray;
     font-size:smaller;
 }
@@ -26,7 +27,7 @@ body {
     margin: auto;
     text-align: justify;
     max-width: 600px;
-    
+    display: block;
 }
 
 /* For mobile phones: */
